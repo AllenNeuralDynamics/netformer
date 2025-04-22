@@ -1,3 +1,3 @@
-# aind-capsule-template
+# AIND-NetFormer
 
-Basic structure of a capsule to be customized as needed.
+Applying NetFormer (https://github.com/NeuroAIHub/NetFormer) to AIND ophys-mFISH datasets
